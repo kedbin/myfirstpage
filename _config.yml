@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: Edrian's site
 description: ようこそ
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "noneyet"
