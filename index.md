@@ -1,1 +1,6 @@
-# Trynna learn something new
+# Yaharo!
+
+
+
+
+###### Trynna learn something new
