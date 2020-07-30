@@ -10,7 +10,7 @@ I see a flock of birds just outside our glass doors,
 
 they are feeding on scattered bird seeds,
 
-each peck is satisfaction.`
+each peck is satisfaction.
 
 -------------------
 
