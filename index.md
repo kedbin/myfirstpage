@@ -7,7 +7,7 @@
 #### Site Contents!
 Page links with date it went online:
 * 07/30/2020 - [About me](http://kedbin.github.io/bg/about)
-
+* 07/30/2020 - [Random shit](http://kedbin.github.io/bored/pastime)
 
 
 
