@@ -13,7 +13,9 @@ Page links with date it went online:
 
 
 #### Upcoming projects (~~assuming i don't quit on 'em~~)
-* 30 day morning dance - [(3年A組 ダンス)](https://www.youtube.com/watch?v=vjN0-4elXb0)
+- [ ] 30 day morning dance - [(3年A組 ダンス)](https://www.youtube.com/watch?v=vjN0-4elXb0)
+- [ ] Book reviews page
+
 
 
 ###### Just me trynna past time and keep myself sane.
