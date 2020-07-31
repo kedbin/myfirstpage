@@ -1,9 +1,7 @@
 theme: jekyll-theme-cayman
 title: Edrian's site
 description: ようこそ
-author: kedbin
-  name: kedbin
-  email: your-email@domain.com
+
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
