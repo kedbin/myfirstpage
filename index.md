@@ -20,4 +20,3 @@ Page links with date it went online:
 
 ###### Just me trynna past time and keep myself sane.
 
-# [Home](http://kedbin.github.io)
