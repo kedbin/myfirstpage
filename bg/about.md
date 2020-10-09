@@ -9,3 +9,7 @@ It's really nice but I think my brain is going to stagnate the longer I stay her
 > ~~Please don't tell my boss I said that~~
 
 ![cato gif](https://github.com/kedbin/kedbin.github.io/blob/master/img/giphy.gif?raw=true "Take this as a bribe")
+
+
+----
+# [Home](http://kedbin.github.io)
