@@ -57,4 +57,3 @@ I'll be happy nonetheless.
 For, if the cost of experiencing this beauty is death; I'd pick it everytime.
 ----
 
-# [Home](http://kedbin.github.io)
