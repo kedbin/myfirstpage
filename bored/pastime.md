@@ -1,4 +1,4 @@
-# This page holds absolutely no meaning at all, it's just where I keep stuff that I find interesting or stuff the I made while at work.
+# This page holds absolutely no meaning at all, it's just where I keep stuff that I find interesting or things I made while at work.
 
 #### Here is an example
 
@@ -53,7 +53,8 @@ Even if I get shot, sink downwards and crash,
 
 I'll be happy nonetheless.
 
+For if the cost of experiencing this beauty is death; I'd pick it everytime.
 
-For, if the cost of experiencing this beauty is death; I'd pick it everytime.
+
 ----
 
