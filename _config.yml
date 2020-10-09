@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 title: Edrian's site
 description: ようこそ
-
+header_pages:
+  - about.md
+  - portfolio.md
