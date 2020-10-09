@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: Edrian's site
 description: ようこそ
 sass:
-  sass_dir: ./_sass
+  sass_dir: kedbin.github.io/_sass
