@@ -12,4 +12,3 @@ It's really nice but I think my brain is going to stagnate the longer I stay her
 
 
 ----
-# [Home](http://kedbin.github.io)
